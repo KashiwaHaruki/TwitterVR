@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter_VR", "Twitter_VR.csproj", "{A274874D-FDDF-D671-CE3B-589CD0966CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter_VR.Editor", "Twitter_VR.Editor.csproj", "{9F8249AC-2B79-4CF5-DF0B-FBE07ABB3F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A274874D-FDDF-D671-CE3B-589CD0966CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A274874D-FDDF-D671-CE3B-589CD0966CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A274874D-FDDF-D671-CE3B-589CD0966CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A274874D-FDDF-D671-CE3B-589CD0966CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8249AC-2B79-4CF5-DF0B-FBE07ABB3F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8249AC-2B79-4CF5-DF0B-FBE07ABB3F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8249AC-2B79-4CF5-DF0B-FBE07ABB3F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8249AC-2B79-4CF5-DF0B-FBE07ABB3F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
